@@ -44,5 +44,3 @@ This repository is created to:
 🌐 [LinkedIn](https://www.linkedin.com/in/shahab-afridy-9ba965286/)
 
 ---
-
-⭐ *If you find this helpful, don’t forget to star the repository!*
